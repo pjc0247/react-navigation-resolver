@@ -1,7 +1,13 @@
 react-navigation-resolver
 ====
-
 no more mess inside your `App.js`.
+<br>
+
+__This module enables you__
+* :heavy_check_mark: adding pages without import statements.
+  * this greatly reduces worthless scrolling after you open the `App.js`.
+* :heavy_check_mark: creating new stack without typing additional functions.
+
 
 Without `react-navigation-resolver`
 ----
