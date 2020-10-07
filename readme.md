@@ -100,7 +100,7 @@ const SettingPages = () => {
 With `react-navigation-resolver`
 ----
 ```jsx
-
+// Just describe all your pages here:
 const AppPages = [
   { name: 'Home', pages: [
     'Home',
