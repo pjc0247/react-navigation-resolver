@@ -1,6 +1,9 @@
 react-navigation-resolver
 ====
-no more mess inside your `App.js`.
+no more mess inside your `App.js`.<br>
+<br>
+A simple script that eliminates messy/useless codes for declaring pages.
+
 <br>
 
 __This module enables you__
